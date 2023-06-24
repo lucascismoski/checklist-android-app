@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461882358118",
+    "project_id": "check-list-app-92908",
+    "storage_bucket": "check-list-app-92908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461882358118:android:3d4d9cf23e00eedf80b0a7",
+        "android_client_info": {
+          "package_name": "com.example.checklistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461882358118-5fb9i3qm0d1cid00ssucdj847bcbiisp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSDufaHSsFb5SPn3Q-6coRKHhOikrrxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461882358118-5fb9i3qm0d1cid00ssucdj847bcbiisp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
